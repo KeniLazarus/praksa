@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+	<item id="NodeList/DBNProjectDatabases/DBNBookmarkFolder/DBNDiagramFolder/DBNResource">
+		<column name="Name" visible="true" order="0" width="179"/>
+		<column name="Path" visible="true" order="1" width="217"/>
+		<column name="Size" visible="true" order="2" width="100"/>
+		<column name="Last modified" visible="true" order="3" width="507"/>
+	</item>
+	<item id="Suggestion/NodeList/SQLiteTableColumn">
+		<column name="Column Name" visible="true" order="0" width="145"/>
+		<column name="#" visible="true" order="1" width="80"/>
+		<column name="Data Type" visible="false" order="2" width="100"/>
+		<column name="Length" visible="false" order="3" width="100"/>
+		<column name="Not Null" visible="false" order="4" width="100"/>
+		<column name="Auto Increment" visible="false" order="5" width="103"/>
+		<column name="Default" visible="false" order="6" width="100"/>
+		<column name="Description" visible="true" order="2" width="137"/>
+	</item>
+	<item id="projectExplorer">
+		<column name="Name" visible="true" order="0" width="190"/>
+		<column name="DataSource" visible="true" order="1" width="129"/>
+	</item>
+	<item id="scriptSelectorViewer">
+		<column name="Script" visible="true" order="0" width="138"/>
+		<column name="Time" visible="true" order="1" width="202"/>
+		<column name="Info" visible="true" order="2" width="73"/>
+		<column name="Folder" visible="true" order="3" width="88"/>
+	</item>
+</items>

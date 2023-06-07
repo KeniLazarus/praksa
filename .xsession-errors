@@ -1,0 +1,97 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1001/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/keni/.Xauthority
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-cinnamon:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting LANGUAGE=en_US
+dbus-update-activation-environment: setting LC_ADDRESS=sr_RS
+dbus-update-activation-environment: setting LC_NAME=sr_RS
+dbus-update-activation-environment: setting DESKTOP_SESSION=cinnamon
+dbus-update-activation-environment: setting LC_MONETARY=sr_RS
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting PWD=/home/keni
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=cinnamon
+dbus-update-activation-environment: setting LOGNAME=keni
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1001/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/keni/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/keni
+dbus-update-activation-environment: setting GDM_LANG=en_US
+dbus-update-activation-environment: setting HOME=/home/keni
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting LC_PAPER=sr_RS
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting LC_IDENTIFICATION=sr_RS
+dbus-update-activation-environment: setting USER=keni
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LC_TELEPHONE=sr_RS
+dbus-update-activation-environment: setting LC_MEASUREMENT=sr_RS
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1001
+dbus-update-activation-environment: setting GTK3_MODULES=xapp-gtk3-module
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/cinnamon:/usr/share/gnome:/home/keni/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting GDMSESSION=cinnamon
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1001/bus
+dbus-update-activation-environment: setting LC_NUMERIC=sr_RS
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+** Message: 00:22:50.616: Existing monitor config (/home/keni/.config/cinnamon-monitors.xml) not found at startup. Looking for legacy configuration (monitors.xml)
+[cinnamon-settings-daemon-smartcard] Failed to start: no suitable smartcard driver could be found
+Cjs-Message: 00:22:54.231: Profiler is disabled. Not setting up signals.
+Clutter-Message: 00:22:54.299: Sync method: PRESENTATION TIME
+Cjs-Message: 00:22:54.745: JS LOG: About to start Cinnamon
+cinnamon-session[1454]: WARNING: t+6,09884s: Detected that screensaver has appeared on the bus
+Cjs-Message: 00:22:55.103: JS LOG: [LookingGlass/info] Cinnamon.AppSystem.get_default() started in 349 ms
+Cjs-Message: 00:22:55.110: JS LOG: [LookingGlass/info] loading user theme: /usr/share/themes/Mint-Y-Dark/cinnamon/cinnamon.css
+Cjs-Message: 00:22:55.135: JS LOG: [LookingGlass/info] added icon directory: /usr/share/themes/Mint-Y-Dark/cinnamon
+** Message: 00:22:55.220: nemo-desktop: session is cinnamon, establishing proxy
+Cjs-Message: 00:22:55.344: JS LOG: [LookingGlass/info] loaded at Thu Jun 08 2023 00:22:55 GMT+0200 (Central European Summer Time)
+Cjs-Message: 00:22:55.344: JS LOG: Cinnamon started at Thu Jun 08 2023 00:22:55 GMT+0200 (Central European Summer Time)
+Cjs-Message: 00:22:55.398: JS LOG: [LookingGlass/info] ExtensionSystem started in 1 ms
+Cjs-Message: 00:22:55.398: JS LOG: [LookingGlass/info] NaNms
+Cjs-Message: 00:22:55.398: JS LOG: [LookingGlass/info] SearchProviderManager started in 0 ms
+openGL version 4.5 detected (GL3 Cogl Driver)
+MetaSyncRing disabled: couldn't find required GL extensions, or the minimum safe openGL version was not met
+Cjs-Message: 00:22:55.449: JS LOG: [LookingGlass/info] Role locked: tray
+Cjs-Message: 00:22:55.452: JS LOG: [LookingGlass/info] Loaded applet systray@cinnamon.org in 22 ms
+Cjs-Message: 00:22:55.489: JS LOG: [LookingGlass/info] Loaded applet show-desktop@cinnamon.org in 37 ms
+Cjs-Message: 00:22:55.520: JS LOG: [LookingGlass/info] Loaded applet favorites@cinnamon.org in 31 ms
+Cjs-Message: 00:22:55.527: JS LOG: [LookingGlass/info] Loaded applet removable-drives@cinnamon.org in 6 ms
+St-Message: 00:22:55.532: cogl npot texture sizes SUPPORTED
+Cjs-Message: 00:22:55.553: JS LOG: [LookingGlass/info] Loaded applet printers@cinnamon.org in 26 ms
+Cjs-Message: 00:22:55.561: JS LOG: [LookingGlass/info] Role locked: notifications
+Cjs-Message: 00:22:55.568: JS LOG: [LookingGlass/info] Loaded applet notifications@cinnamon.org in 15 ms
+Cjs-Message: 00:22:55.597: JS LOG: [LookingGlass/info] Loaded applet calendar@cinnamon.org in 29 ms
+Cjs-Message: 00:22:55.615: JS LOG: [LookingGlass/info] Loaded applet keyboard@cinnamon.org in 18 ms
+Cjs-Message: 00:22:55.619: JS LOG: [LookingGlass/info] Loaded applet xapp-status@cinnamon.org in 4 ms
+Cjs-Message: 00:22:55.646: JS LOG: [LookingGlass/info] Loaded applet power@cinnamon.org in 27 ms
+Cjs-Message: 00:22:55.658: JS LOG: [LookingGlass/info] Role locked: panellauncher
+Cjs-Message: 00:22:55.673: JS LOG: [LookingGlass/info] Loaded applet grouped-window-list@cinnamon.org in 26 ms
+Cjs-Message: 00:22:55.685: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: nm-applet (:1.50/org/x/StatusIcon/Icon)
+Cjs-Message: 00:22:55.716: JS LOG: [LookingGlass/info] Loaded applet sound@cinnamon.org in 43 ms
+Cjs-Message: 00:22:55.750: JS LOG: [LookingGlass/info] Hiding XAppStatusIcon (we have an applet): nm-applet (:1.50/org/x/StatusIcon/Icon)
+Cjs-Message: 00:22:55.762: JS LOG: [LookingGlass/info] Loaded applet network@cinnamon.org in 46 ms
+Cjs-Message: 00:22:55.883: JS LOG: [LookingGlass/info] Loaded applet menu@cinnamon.org in 121 ms
+Cjs-Message: 00:22:55.883: JS LOG: [LookingGlass/info] AppletManager started in 538 ms
+Cjs-Message: 00:22:55.886: JS LOG: [LookingGlass/info] Cinnamon took 1140 ms to start
+Cjs-Message: 00:22:55.906: JS LOG: Unknown network device type, is 14
+Cjs-Message: 00:22:55.920: JS LOG: Unknown network device type, is 30
+Cjs-Message: 00:22:55.920: JS LOG: Unknown network device type, is 13
+Cjs-Message: 00:23:00.176: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: blueberry (:1.73/org/x/StatusIcon/Icon)
+cinnamon-session[1454]: WARNING: t+16,10177s: Detected that screensaver has left the bus
+Cjs-Message: 00:23:15.834: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintUpdate.py (:1.78/org/x/StatusIcon/Icon)
+Cjs-Message: 00:23:35.255: JS LOG: [LookingGlass/info] Adding XAppStatusIcon: mintreport (:1.81/org/x/StatusIcon/Icon)
+cinnamon-session[1454]: WARNING: t+953,14728s: Detected that screensaver has appeared on the bus
+cinnamon-session[1454]: WARNING: t+969,06657s: Detected that screensaver has left the bus
+Nemo-Share-Message: 01:21:01.663: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+Nemo-Share-Message: 01:21:16.306: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
