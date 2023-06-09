@@ -91,3 +91,222 @@ git clone git@github.com:KeniLazarus/123123.git
 cd 123123.git
 cd 123123
 git remote -v
+pwd
+ls
+git init
+ls -la
+mkdir "new Folder"
+cd
+cd desktop
+pwd
+ls
+cd desktop
+cd Desktop
+mkdir "New Folder 1"
+ls
+pwd
+cp Desktop
+cp --help
+git add -A 
+gitstatus
+$ cd
+cd
+pwd
+ls
+cd Documents
+mkdir "123"
+rm "123"
+rmdir "123"
+ls
+cd
+cd Desktop
+cd My Computer
+ls
+cd
+pwd
+ls
+cd Pictures
+mkdir "New Photos"
+cat 
+git commit -m "initial commit"
+git status
+git log 
+curl -u "KeniLazarus" https://api.github.com/user/repos -d '{"Name":"Muzika"}'
+sudocurl -u "KeniLazarus" https://api.github.com/user/repos -d '{"Name":"Muzika"}'
+sudo curl -u "KeniLazarus" https://api.github.com/user/repos -d '{"Name":"Muzika"}'
+pwd
+ls
+cd Documents
+ls
+cd Porcupine Tree
+cd 'Porcupine Tree'
+git clone 
+git clone git@github.com:KeniLazarus/Porcupine-Tree.git
+ls
+git status
+git add 
+git add .
+git commit -m "Trying"
+git push --set upstream origin
+git push --set upstream origin feature
+git push -u origin main
+git commit -m "idemo'
+"
+git push -u origin git@github.com:KeniLazarus/Porcupine-Tree.git
+clear
+cd Desktop
+ls
+cd Documents
+cd
+cler
+clear
+git init
+git add .
+git status 
+git commit -m "First Commit"
+git remote add origin git@github.com:KeniLazarus/123123.git
+git push -u origin master
+git push -u origin main
+git clone git@github.com:KeniLazarus/Porcupine-Tree.git
+git init
+git add .
+git commit -m "adding files"
+git push
+git remote add praksa git@github.com:KeniLazarus/empty-repo.git
+git push praksa
+git push --set-upstream praksa master
+git add .
+git commit -m "just added a file"
+git push origin Discography
+git push origin main
+git push main
+git push --set-upstream main master
+git push origin git@github.com:KeniLazarus/Porcupine-Tree.git
+git remote add origin git@github.com:KeniLazarus/praksa.git
+git branch -M main
+git push -u origin main
+cd praksa-1
+cd
+git clone git@github.com:KeniLazarus/Praksa-1.git
+pwd
+ls
+cd Praksa-1
+git push
+git add .
+git commit -m "adding some new files"
+git push
+cd
+pwd
+ls
+cd Documents
+ls
+cd empty repo
+cd 'empty repo'
+git add .
+git commit -m "first commit"
+git remote add origin git@github.com:KeniLazarus/empty-repo.git
+git push --set upstream origin main
+git push --set-upstream origin main
+git status
+git push
+git clone
+git clone git@github.com:KeniLazarus/empty-repo.git
+git init
+git add .
+git commit -m "changed a few files"
+git push git@github.com:KeniLazarus/Praksa-1.git
+git checkout
+git push
+git push --set-upstream origin praksa-1
+curl -u "KeniLazarus" https://api.github.com/user/repos -D '{"name":"kakozor","private":true}'
+sudo curl -u "KeniLazarus" https://api.github.com/user/repos -D '{"name":"kakozor","private":true}'
+git branch
+git branch -c praksa2
+git branch
+git checkout praksa2
+git status
+git add 123
+git status
+bit branch
+git branch
+git commit -m "pokusavam"
+git commit -m "new file added"
+git add .
+git push
+git add .
+git commit
+git commit -m "added file"
+cd
+git init
+git clone git@github.com:KeniLazarus/Praksa-1.git
+ls
+cd Praksa-1
+git init
+git add .
+git commit -m "added a few files"
+git push
+git branch
+git branch -c NewBranch
+git branch
+git checkout NewBranch
+git add .
+git commit -m "added a new branch"
+git push
+git push origin HEAD
+git push --set-upstream origin NewBranch
+git branch
+git branch -c AnotherBranch
+git branch
+git checkout AnotherBranch
+git add ,
+git add .
+pwd
+git commit -m "changed a file again"
+git add .
+git commit -m "added a few new lines"
+git push
+git push origin HEAD:AnotherBranch
+git branch
+git checkout NewBranch
+git add .
+git commit -m "test for Newbranch"
+git push
+git branch
+git checkout AnotherBranch
+git checkout -b main
+git checkout -b main2
+git branch
+git add .
+git commit -m "trying to add new branches"
+git push
+git push --set-upstream origin main2
+git init
+git
+git branch
+git branch -c my_new_branch
+git branch
+git checkout my_new_branch
+git branch
+touch hallo.txt
+echo Hello, World! > hallo.txt
+git status
+git add .
+git add hallo.txt
+git status
+git add Hallo.txt
+git status
+git push
+cd
+ls
+cd 123123
+ls
+touch 123
+echo CHANGE > 123
+touch 123
+echo CHANGE 2 >123
+echo CHANGE 2 > 123
+echo I HOPE THIS DID NOT DELETE ANYTHING > 123
+git add .
+git commit -m "trying new things"
+git push
+git push origin HEAD:123123
